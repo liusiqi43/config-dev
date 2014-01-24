@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/me/.marks'
+let g:netrw_dirhist_2='/Users/me/Documents/Projects/Javascript'
+let g:netrw_dirhist_3='/Users/me/Documents/Projects/libreoffice'
+let g:netrw_dirhist_4='/Users/me/Documents/Projects/libreoffice/core/ios/iosremote/iosremote'
+let g:netrw_dirhist_5='/Users/me/Documents/Projects/libreoffice/core/ios/iosremote/iosremote/Classes'
+let g:netrw_dirhist_6='/Users/me/Documents/Projects/libreoffice/core/ios/iosremote/iosremote'
+let g:netrw_dirhist_7='/Users/me/Documents/Projects/libreoffice/core/ios/iosremote/iosremote/Classes'
+let g:netrw_dirhist_8='/Users/me/Documents/Projects/libreoffice/core/sd/source/ui'
+let g:netrw_dirhist_9='/Users/me/Documents/Projects/libreoffice/core/sd/source/ui/remotecontrol'
