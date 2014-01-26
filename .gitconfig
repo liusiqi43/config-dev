@@ -1,0 +1,7 @@
+[user]
+	name = siqi
+	email = me@siqi.fr
+[push]
+	default = simple
+[color]
+	ui = auto
